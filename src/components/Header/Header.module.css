@@ -1,0 +1,14 @@
+.header {
+    background-color: rgb(255, 245, 158);
+    width: 100%;
+}
+
+.headerContainer {
+    margin: auto;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    max-width: 1000px;
+    font-size: 28px;
+}

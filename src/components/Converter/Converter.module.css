@@ -1,0 +1,21 @@
+.converter {
+    margin: 30px auto 0 auto;
+    width: 100%;
+    max-width: 1000px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.input {
+    display: flex;
+    flex-direction: column;
+}
+
+.input input {
+    font-size: 26px;
+}
+
+.input select {
+    font-size: 24px;
+}
